@@ -1,6 +1,6 @@
 # RedditTales336 — project context for Claude Code
 
-TikTok-first channel (Shorts also cross-posted to YouTube Shorts): dramatic, high-retention Reddit story narrations, 9:16 vertical. Only Shorts/Parts get uploaded - multi-part stories still produce a longform.mp4 in exports/ (kept, since it's free to render either way) but it's never uploaded anywhere.
+TikTok-only channel (started as a YouTube/TikTok dual-post plan, pivoted to posting only on TikTok since that's where it actually gets views): dramatic, high-retention Reddit story narrations, 9:16 vertical. Only Shorts/Parts get uploaded - multi-part stories still produce a longform.mp4 in exports/ (kept, since it's free to render either way) but it's never uploaded anywhere.
 Owner is learning — explain what each command does in one line before running it.
 
 ## Machines

@@ -1,4 +1,4 @@
-# RedditTales336 — Reddit Youtube Project
+# RedditTales336 — TikTok automation pipeline
 
 Pipeline: raw_reddit_posts -> scripts -> voiceovers -> (+ background_gameplay) -> final_exports
 automation_scripts holds the PowerShell/Python that will eventually run each step.

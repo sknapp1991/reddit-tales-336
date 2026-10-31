@@ -1,6 +1,6 @@
 """
-RedditTales336 - cut the per-block Part Shorts (TikTok first, also uploaded
-to YouTube Shorts) out of the long-form video. make_video.py calls this
+RedditTales336 - cut the per-block Part Shorts (TikTok only) out of the
+long-form video. make_video.py calls this
 automatically for multi-BLOCK scripts; longform.mp4 itself is kept in
 exports/ but, per the TikTok-only workflow, never uploaded anywhere -
 only the Part Shorts this script cuts go in upload.txt.
@@ -321,7 +321,7 @@ def concat_pieces(pieces: list[Path], cq: int, out_path: Path):
 # ---------------------------------------------------------------------------
 
 def main():
-    parser = argparse.ArgumentParser(description="Cut the long-form video into per-block YouTube Shorts.")
+    parser = argparse.ArgumentParser(description="Cut the long-form video into per-block TikTok Shorts.")
     parser.add_argument("--prefix", required=True, help="Base name used across folders, e.g. 'dog-name'")
     parser.add_argument("--longform", default=None, help="Default: final_exports/longform/<prefix>_longform.mp4")
     parser.add_argument("--script", default=None, help="Default: newest scripts/*_<prefix>_script.txt")
