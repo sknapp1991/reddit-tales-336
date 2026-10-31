@@ -1,0 +1,6 @@
+# One YouTube URL per line. Lines starting with # are ignored.
+# Only use footage you own or that is explicitly licensed for reuse.
+https://www.youtube.com/watch?v=2BFfhOqlUss
+https://www.youtube.com/watch?v=P3b3AidldmA
+https://www.youtube.com/watch?v=8VmCwcGw6SI
+https://www.youtube.com/watch?v=sxUc3cB-QSI

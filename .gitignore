@@ -1,0 +1,16 @@
+# Big media stays out of git
+voiceovers/
+videos/
+background_gameplay/
+final_exports/
+voice_tests/
+reddit_screenshots/
+*.mp3
+*.wav
+*.mp4
+
+# Secrets (API keys for Reddit, Anthropic, ElevenLabs)
+.env
+__pycache__/
+.venv/
+.venv_tts/
